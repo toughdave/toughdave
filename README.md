@@ -17,7 +17,7 @@ I turn requirements into **working, repeatable workflows**—through systems ana
 ## Featured work (repos)
 - **david-on-cloud** — Personal website / CV: https://davidoncloud.com
 - **Teaching_labs** — Practical lab materials and exercises
-- **trading_bot** - Intelligent trading tool for stocks and ETFs
+- **trading_bot** — Intelligent trading tool for stocks and ETFs
 - **youtube-theatre-mode** / **youtube-theatre-mode-Firefox** — Browser extensions
 - **scripting** — Shell scripting experiments and utilities
 
