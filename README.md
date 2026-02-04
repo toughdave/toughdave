@@ -1,6 +1,6 @@
-# Hi, I’m Tope David (toughdave) 👋
+# Hi, I’m David 👋
 
-**Systems, Networking & Computer IT Analyst | Hands-on Computer IT Instructor (Labs, Assignments & Projects)**  
+**Systems, Networking & Computer IT Analyst**  
 I turn requirements into **working, repeatable workflows**—through systems analysis, automation, and practical technical delivery.
 
 ## What I do
@@ -17,6 +17,7 @@ I turn requirements into **working, repeatable workflows**—through systems ana
 ## Featured work (repos)
 - **david-on-cloud** — Personal website / CV: https://davidoncloud.com
 - **Teaching_labs** — Practical lab materials and exercises
+- **trading_bot** - Intelligent trading tool for stocks and ETFs
 - **youtube-theatre-mode** / **youtube-theatre-mode-Firefox** — Browser extensions
 - **scripting** — Shell scripting experiments and utilities
 
