@@ -1,25 +1,35 @@
 # Hi, I’m David 👋
 
-**Systems, Networking & Computer IT Analyst**  
-I turn requirements into **working, repeatable workflows**—through systems analysis, automation, and practical technical delivery.
+**Information Systems, Data & IT Operations Analyst**  
+I design and run reliable workflows across systems operations, networking support, and data automation.
 
 ## What I do
-- **Systems analysis:** translate needs into clear workflows, validations, troubleshooting steps, and documentation
-- **Networking + infrastructure (learning + labs):** Windows/Linux, TCP/IP fundamentals, DNS/DHCP basics, routing/switching concepts, Active Directory labs
-- **Data + automation:** Python, SQL (MySQL), Excel/Google Sheets, reporting/analytics workflows
-- **Hands-on instruction:** teach students practical implementation on their laptops (labs, assignments, and projects)
+- **Systems analysis & delivery:** turn requirements into implementation plans, validation steps, and stable handover workflows
+- **Infrastructure & networking:** Windows/Linux operations, Active Directory, VLAN/DNS/DHCP troubleshooting, and practical lab validation
+- **Data operations & automation:** Python, SQL (MySQL), Excel/Google Sheets, and reporting pipelines with quality controls
+- **Consultant operations:** domain/DNS administration, Microsoft 365 access lifecycle support, and Docker-based validation checks
 
 ## Current focus
-- Building reliable automation and reporting pipelines
+- Building repeatable automation and reporting workflows
 - Improving data quality and process consistency in operational systems
-- Practical labs in Windows/Linux, networking, and secure computing concepts
+- Expanding practical networking and systems troubleshooting documentation
 
-## Featured work (repos)
-- **david-on-cloud** — Personal website / CV: https://davidoncloud.com
-- **Teaching_labs** — Practical lab materials and exercises
-- **trading_bot** — Intelligent trading tool for stocks and ETFs
-- **youtube-theatre-mode** / **youtube-theatre-mode-Firefox** — Browser extensions
-- **scripting** — Shell scripting experiments and utilities
+## Featured work
+- **david-on-cloud** — Portfolio website and case studies: https://davidoncloud.com
+- **networking-labs** — Hands-on Cisco troubleshooting and networking lab documentation
+- **scripting** — SQL, Python, and workflow automation assets
+- **Teaching_labs** — Practical classroom labs and implementation exercises
+
+## GitHub achievements execution
+- **Target matrix:** `achievements/achievement-target-matrix.md`
+- **Contribution pack:** `achievements/contribution-pack.md`
+- **Repo targeting pack:** `achievements/repo-targeting-pack.md`
+
+Progress checklist:
+- [ ] Pull Shark: merge PR(s)
+- [ ] Pair Extraordinaire: merge co-authored PR(s)
+- [ ] Quickdraw: complete one issue-to-close rapid cycle
+- [ ] Galaxy Brain path: accepted Discussions answer
 
 ## Connect with me
 - **Website:** https://davidoncloud.com
