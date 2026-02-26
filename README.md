@@ -21,10 +21,6 @@ I design and run reliable workflows across systems operations, networking suppor
 - **Teaching_labs** — Practical classroom labs and implementation exercises
 
 ## GitHub achievements execution
-- **Target matrix:** `achievements/achievement-target-matrix.md`
-- **Contribution pack:** `achievements/contribution-pack.md`
-- **Repo targeting pack:** `achievements/repo-targeting-pack.md`
-
 Progress checklist:
 - [ ] Pull Shark: merge PR(s)
 - [ ] Pair Extraordinaire: merge co-authored PR(s)
