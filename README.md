@@ -20,12 +20,9 @@ I design and run reliable workflows across systems operations, networking suppor
 - **scripting** — SQL, Python, and workflow automation assets
 - **Teaching_labs** — Practical classroom labs and implementation exercises
 
-## GitHub achievements execution
-Progress checklist:
-- [ ] Pull Shark: merge PR(s)
-- [ ] Pair Extraordinaire: merge co-authored PR(s)
-- [ ] Quickdraw: complete one issue-to-close rapid cycle
-- [ ] Galaxy Brain path: accepted Discussions answer
+## Contribution activity
+- Active improvements are delivered through merged updates across featured repositories.
+- Technical progress is documented in each repository’s commits, PRs, and release notes.
 
 ## Connect with me
 - **Website:** https://davidoncloud.com
